@@ -1,0 +1,6 @@
+[0] This is an information.
+[1] This is a warning.
+[0] This is an information.
+[1] This is a warning.
+[0] This is an information.
+[1] This is a warning.

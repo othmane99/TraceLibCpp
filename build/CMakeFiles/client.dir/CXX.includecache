@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/client/TraceLogger.cpp
+TraceLogger.h
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/client/TraceLogger.h
+iostream
+-
+
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/client/TraceLogger.h
+string
+-
+fstream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+

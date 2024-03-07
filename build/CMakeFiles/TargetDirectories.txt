@@ -1,0 +1,4 @@
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/build/CMakeFiles/rebuild_cache.dir
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/build/CMakeFiles/edit_cache.dir
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/build/CMakeFiles/server.dir
+/home/othmane/Desktop/FileAndTCP_ChannelsForTrace/build/CMakeFiles/client.dir
